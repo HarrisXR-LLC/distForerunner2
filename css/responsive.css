@@ -687,13 +687,13 @@
     width: 100%;
   }
   .side-menu-parent {
-    width: 100% !important;
+    width: 280px !important;
   }
   .side-menu {
     position: absolute;
     background: var(--colorTertiaryDarken2);
     color: white;
-    width: 100%;
+    width: 280px;
     top: calc(var(--top-menu-height) * 2);
     bottom: 0px;
     overflow: auto;
