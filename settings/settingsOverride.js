@@ -5,6 +5,9 @@ const settingsOverride = {
   installDirectory: './',
   isDisableAsciiCatalog: true,
   isEnableJscCatalog: false,
+  isDisableGodrays: true,
+  showConsoleClipboard: true,
+  disableMobileManager: true,
   serverURL: '',
   classificationStr: '',
   plugins: {
